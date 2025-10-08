@@ -1,6 +1,6 @@
 🏏 IPL First Innings Score Prediction & Powerplay Analysis
 
-In this project, I utilized IPL data from 2022, 2023, and 2024 to extract detailed powerplay statistics (first 6 overs) for the first innings of matches. By analyzing key features such as runs scored, wickets lost, boundary count, and dot balls, I implemented Linear Regression (LR), Random Forest (RF), and a Deep Neural Network (DNN) model to predict the final score of a match.
+In this project, I utilized IPL data from 2022, 2023, and 2024 to extract detailed powerplay statistics (first 6 overs) for the first innings of matches. By analyzing key features such as runs scored, wickets lost, boundary count, and dot balls, I implemented Elastic Linear Regression (LR) and Deep Neural Network (DNN) model to predict the final score of a match.
 
 🔍 Year-on-Year Trends & Evolution of the Game
 Throughout these three seasons, noticeable shifts in the game’s dynamics were observed:
